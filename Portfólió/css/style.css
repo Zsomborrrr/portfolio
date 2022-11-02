@@ -1,0 +1,14 @@
+a {
+    background-color:gainsboro;
+    text-decoration: none;
+    color: green;
+    transition: 0.75s;
+}
+
+a:hover {
+    color: red;
+}
+
+.active {
+    color: black;
+}
